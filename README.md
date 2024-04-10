@@ -1,3 +1,7 @@
 # SSL
 
-Repositorio para la cursada de Sintaxis y Semántica de los Lenguajes del alumno Martin de Avila Cunha, curso K2052
+• Curso K2052
+• Año 2024
+• Legajo 1730150
+• Apellido: de Avila Cunha
+• Nombre: Martin 
